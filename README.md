@@ -1,5 +1,7 @@
 # Uptime Monitoring System
 
+A collaborative project by Prasad1-S and Ananya Ghosh (github.com/Ananya21-G)
+
 A comprehensive uptime and latency monitoring solution that tracks website availability and performance in real-time.
 
 ## Features
@@ -116,9 +118,11 @@ Uptime-Monitoring-System/
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE). Developed collaboratively by Prasad1-S and Ananya Ghosh (github.com/Ananya21-G).
 
 ## Contributing
+
+This project was developed collaboratively by Prasad1-S and Ananya Ghosh (github.com/Ananya21-G). For contributions:
 
 1. Fork the repository
 2. Create a feature branch
